@@ -5,9 +5,9 @@
 
 Срок выполнения задания:
 
-**до 22 мая** 
+**до 29 мая** 
 
-![Relative date](https://img.shields.io/date/1653253200)
+![Relative date](https://img.shields.io/date/1653858000)
 
 ## Задание
 
