@@ -19,7 +19,7 @@ class BST {
     }
     void add(T value) {
         root = addNode(root, value);
-    }
+    } 
  private:
     Node* root;
     Node* addNode(Node* root, T value) {
